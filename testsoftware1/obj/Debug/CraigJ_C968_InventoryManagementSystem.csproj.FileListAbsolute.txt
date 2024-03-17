@@ -1,0 +1,14 @@
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\CraigJ_C968_InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.Properties.Resources.resources
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\CraigJ_C968_InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\CraigJ_C968_InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.exe
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.pdb
+C:\Users\Craig's\source\repos\testsoftware1\bin\Debug\testsoftware1.exe.config
+C:\Users\Craig's\source\repos\testsoftware1\bin\Debug\testsoftware1.exe
+C:\Users\Craig's\source\repos\testsoftware1\bin\Debug\testsoftware1.pdb
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\CraigJ_C968_InventoryManagementSystem.model.AddParts.resources
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\CraigJ_C968_InventoryManagementSystem.model.AddProduct.resources
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\CraigJ_C968_InventoryManagementSystem.model.Main.resources
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\CraigJ_C968_InventoryManagementSystem.model.ModifyParts.resources
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\CraigJ_C968_InventoryManagementSystem.model.ModifyProduct.resources

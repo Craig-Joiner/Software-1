@@ -1,0 +1,14 @@
+C:\Users\Craig's\source\repos\testsoftware1\bin\Debug\testsoftware1.exe.config
+C:\Users\Craig's\source\repos\testsoftware1\bin\Debug\testsoftware1.exe
+C:\Users\Craig's\source\repos\testsoftware1\bin\Debug\testsoftware1.pdb
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.csproj.AssemblyReference.cache
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.Properties.Resources.resources
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.csproj.GenerateResource.cache
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.csproj.CoreCompileInputs.cache
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.exe
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.pdb
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.Main.resources
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.Add.resources
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.AddProduct.resources
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.Modify.resources
+C:\Users\Craig's\source\repos\testsoftware1\obj\Debug\testsoftware1.ModifyProduct.resources
